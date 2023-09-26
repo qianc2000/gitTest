@@ -10,5 +10,6 @@ public class Hello {
         System.out.println("hello+master");
         System.out.println("hello+hotfix");
         System.out.println("hello+hotfix");
+        System.out.println("hello+master");
     }
 }
